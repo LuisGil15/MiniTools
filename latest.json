@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "1.0.6",
-  "build": 7,
-  "publishedAt": "2026-10-09T19:20:53Z",
+  "version": "1.0.7",
+  "build": 8,
+  "publishedAt": "2026-10-09T20:24:07Z",
   "minimumSystemVersion": "13.0",
-  "downloadURL": "https://github.com/LuisGil15/MiniTools/releases/download/v1.0.6/MiniTools-1.0.6.dmg",
-  "sha256": "a3fda98b2c0f8e3a700058201d1740d8f37ce197b4b5682d180ddcc1f8fea86e",
-  "releaseNotesURL": "https://github.com/LuisGil15/MiniTools/releases/tag/v1.0.6"
+  "downloadURL": "https://github.com/LuisGil15/MiniTools/releases/download/v1.0.7/MiniTools-1.0.7.dmg",
+  "sha256": "cd367b24b2ee98a4394a19095a39192b9f0645822248e1949351aa628e730264",
+  "releaseNotesURL": "https://github.com/LuisGil15/MiniTools/releases/tag/v1.0.7"
 }
