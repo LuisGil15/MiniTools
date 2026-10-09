@@ -45,6 +45,25 @@ interact with what you need, and let it collapse back into the display.
 - macOS Ventura 13 or later.
 - A Mac with Apple silicon.
 
+### Homebrew (recommended)
+
+```bash
+brew install --cask LuisGil15/minitools/minitools
+```
+
+Homebrew downloads the signed and notarized DMG from this repository and
+verifies its SHA-256 checksum. To install updates later:
+
+```bash
+brew update
+brew upgrade --cask minitools
+```
+
+The Cask is maintained in
+[`LuisGil15/homebrew-minitools`](https://github.com/LuisGil15/homebrew-minitools).
+
+### Manual installation
+
 1. Download [`MiniTools-1.0.2.dmg`](https://github.com/LuisGil15/MiniTools/releases/download/v1.0.2/MiniTools-1.0.2.dmg).
 2. Open the disk image.
 3. Drag **MiniTools** to **Applications**.
