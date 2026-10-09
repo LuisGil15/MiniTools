@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LuisGil15/MiniTools-Distribution/releases/latest"><img src="https://img.shields.io/badge/version-1.0.2-0A84FF?style=flat-square" alt="Latest version 1.0.2"></a>
+  <a href="https://github.com/LuisGil15/MiniTools/releases/latest"><img src="https://img.shields.io/badge/version-1.0.2-0A84FF?style=flat-square" alt="Latest version 1.0.2"></a>
   <img src="https://img.shields.io/badge/macOS-13%2B-black?style=flat-square&logo=apple" alt="macOS 13 or later">
   <img src="https://img.shields.io/badge/Apple%20silicon-required-black?style=flat-square&logo=apple" alt="Apple silicon required">
   <img src="https://img.shields.io/badge/Developer%20ID-signed-34C759?style=flat-square" alt="Developer ID signed">
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LuisGil15/MiniTools-Distribution/releases/download/v1.0.2/MiniTools-1.0.2.dmg"><img src="https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download MiniTools 1.0.2 for macOS"></a>
+  <a href="https://github.com/LuisGil15/MiniTools/releases/download/v1.0.2/MiniTools-1.0.2.dmg"><img src="assets/download-for-macos.png" alt="Download MiniTools 1.0.2 for macOS" width="300"></a>
 </p>
 
 MiniTools turns the area around your Mac's notch into a compact workspace for
@@ -45,7 +45,7 @@ interact with what you need, and let it collapse back into the display.
 - macOS Ventura 13 or later.
 - A Mac with Apple silicon.
 
-1. Download [`MiniTools-1.0.2.dmg`](https://github.com/LuisGil15/MiniTools-Distribution/releases/download/v1.0.2/MiniTools-1.0.2.dmg).
+1. Download [`MiniTools-1.0.2.dmg`](https://github.com/LuisGil15/MiniTools/releases/download/v1.0.2/MiniTools-1.0.2.dmg).
 2. Open the disk image.
 3. Drag **MiniTools** to **Applications**.
 4. Launch MiniTools and grant only the permissions needed by the features you use.
@@ -55,7 +55,7 @@ interact with what you need, and let it collapse back into the display.
 > need to disable Gatekeeper or remove the quarantine attribute.
 
 Prefer a portable archive? The notarized ZIP and SHA-256 checksums are available
-on the [latest release page](https://github.com/LuisGil15/MiniTools-Distribution/releases/latest).
+on the [latest release page](https://github.com/LuisGil15/MiniTools/releases/latest).
 
 ## Optional plugins
 
@@ -108,9 +108,9 @@ and Mac model.
 
 ## Links
 
-- [Latest release](https://github.com/LuisGil15/MiniTools-Distribution/releases/latest)
-- [Distribution repository](https://github.com/LuisGil15/MiniTools-Distribution)
-- [Report an issue](https://github.com/LuisGil15/MiniTools-Distribution/issues)
+- [Latest release](https://github.com/LuisGil15/MiniTools/releases/latest)
+- [Distribution repository](https://github.com/LuisGil15/MiniTools)
+- [Report an issue](https://github.com/LuisGil15/MiniTools/issues)
 - [Plugin catalog](https://github.com/LuisGil15/MiniTools-Plugins-Distribution)
 
 ## Support MiniTools
