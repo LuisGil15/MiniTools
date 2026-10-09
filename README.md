@@ -17,6 +17,11 @@
 </p>
 
 <p align="center">
+  <a href="https://ko-fi.com/luisgildev"><img src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" alt="Support MiniTools on Ko-fi"></a>
+  <a href="https://www.buymeacoffee.com/luisgil"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-Support-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Support MiniTools on Buy Me a Coffee"></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/LuisGil15/MiniTools/releases/download/v1.0.2/MiniTools-1.0.2.dmg"><strong>Download MiniTools 1.0.2 for macOS</strong></a>
 </p>
 
