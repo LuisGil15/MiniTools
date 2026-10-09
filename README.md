@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LuisGil15/MiniTools/releases/latest"><img src="https://img.shields.io/badge/version-1.0.3-0A84FF?style=flat-square" alt="Latest version 1.0.3"></a>
+  <a href="https://github.com/LuisGil15/MiniTools/releases/latest"><img src="https://img.shields.io/badge/version-1.0.4-0A84FF?style=flat-square" alt="Latest version 1.0.4"></a>
   <img src="https://img.shields.io/badge/macOS-13%2B-black?style=flat-square&logo=apple" alt="macOS 13 or later">
   <img src="https://img.shields.io/badge/Apple%20silicon-required-black?style=flat-square&logo=apple" alt="Apple silicon required">
   <img src="https://img.shields.io/badge/Developer%20ID-signed-34C759?style=flat-square" alt="Developer ID signed">
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LuisGil15/MiniTools/releases/download/v1.0.3/MiniTools-1.0.3.dmg"><img src="assets/download-for-macos.png" alt="Download MiniTools 1.0.3 for macOS" width="300"></a>
+  <a href="https://github.com/LuisGil15/MiniTools/releases/download/v1.0.4/MiniTools-1.0.4.dmg"><img src="assets/download-for-macos.png" alt="Download MiniTools 1.0.4 for macOS" width="300"></a>
 </p>
 
 MiniTools turns the area around your Mac's notch into a compact workspace for
@@ -64,7 +64,7 @@ The Cask is maintained in
 
 ### Manual installation
 
-1. Download [`MiniTools-1.0.3.dmg`](https://github.com/LuisGil15/MiniTools/releases/download/v1.0.3/MiniTools-1.0.3.dmg).
+1. Download [`MiniTools-1.0.4.dmg`](https://github.com/LuisGil15/MiniTools/releases/download/v1.0.4/MiniTools-1.0.4.dmg).
 2. Open the disk image.
 3. Drag **MiniTools** to **Applications**.
 4. Launch MiniTools and grant only the permissions needed by the features you use.
@@ -116,7 +116,7 @@ Every public build is:
 To verify a downloaded artifact, place its `.sha256` file beside it and run:
 
 ```bash
-shasum -a 256 -c MiniTools-1.0.3.dmg.sha256
+shasum -a 256 -c MiniTools-1.0.4.dmg.sha256
 ```
 
 ## Compatibility note
