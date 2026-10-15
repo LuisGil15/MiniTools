@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LuisGil15/MiniTools/releases/latest"><img src="https://img.shields.io/badge/version-1.0.9-0A84FF?style=flat-square" alt="Latest version 1.0.9"></a>
+  <a href="https://github.com/LuisGil15/MiniTools/releases/latest"><img src="https://img.shields.io/badge/version-1.0.12-0A84FF?style=flat-square" alt="Latest version 1.0.12"></a>
   <img src="https://img.shields.io/badge/macOS-13%2B-black?style=flat-square&logo=apple" alt="macOS 13 or later">
   <img src="https://img.shields.io/badge/Apple%20silicon-required-black?style=flat-square&logo=apple" alt="Apple silicon required">
   <img src="https://img.shields.io/badge/Developer%20ID-signed-34C759?style=flat-square" alt="Developer ID signed">
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LuisGil15/MiniTools/releases/download/v1.0.9/MiniTools-1.0.9.dmg"><img src="assets/download-for-macos.png" alt="Download MiniTools 1.0.9 for macOS" width="300"></a>
+  <a href="https://github.com/LuisGil15/MiniTools/releases/download/v1.0.12/MiniTools-1.0.12.dmg"><img src="assets/download-for-macos.png" alt="Download MiniTools 1.0.12 for macOS" width="300"></a>
 </p>
 
 MiniTools turns the area around your Mac's notch into a compact workspace for
@@ -64,7 +64,7 @@ The Cask is maintained in
 
 ### Manual installation
 
-1. Download [`MiniTools-1.0.9.dmg`](https://github.com/LuisGil15/MiniTools/releases/download/v1.0.9/MiniTools-1.0.9.dmg).
+1. Download [`MiniTools-1.0.12.dmg`](https://github.com/LuisGil15/MiniTools/releases/download/v1.0.12/MiniTools-1.0.12.dmg).
 2. Open the disk image.
 3. Drag **MiniTools** to **Applications**.
 4. Launch MiniTools and grant only the permissions needed by the features you use.
@@ -89,12 +89,16 @@ Available first-party plugins include:
 - Screenshot Board
 - Mini Terminal
 - Agent Pulse
+- Container Manager
 
 Install or remove `.minitoolplugin` packages from **MiniTools → Settings →
-Plugins**. Browse the
-[plugin catalog](https://github.com/LuisGil15/MiniTools-Plugins-Distribution)
+Extension Store**. Worker packages are signed and notarized; review the
+publisher and capabilities when you install one. Extensions from MiniTools
+1.0.9 or earlier need their new package reinstalled; saved preferences remain.
+Browse the
+[plugin catalog](https://github.com/LuisGil15/MiniTools-Plugins)
 or review the
-[plugin source and contract](https://github.com/LuisGil15/MiniTools-Plugins).
+[extension contract and developer guides](https://github.com/LuisGil15/MiniTools-Plugins/blob/main/docs/creating-extensions.md).
 
 ## Using MiniTools
 
@@ -116,7 +120,7 @@ Every public build is:
 To verify a downloaded artifact, place its `.sha256` file beside it and run:
 
 ```bash
-shasum -a 256 -c MiniTools-1.0.9.dmg.sha256
+shasum -a 256 -c MiniTools-1.0.12.dmg.sha256
 ```
 
 ## Privacy and analytics
